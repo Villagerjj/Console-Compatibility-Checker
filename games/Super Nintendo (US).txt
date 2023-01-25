@@ -1,0 +1,1020 @@
+F-ZERO	Nintendo	August 13 1991	[140]
+Gradius III	Konami	August 13 1991	[141]
+Pilotwings	Nintendo	August 13 1991	[14]
+SimCity	Nintendo	August 13 1991	[143]
+Super Mario World	Nintendo	August 13 1991	[144]
+Drakkhen	Seika Corp.	September 1991	[14]
+Final Fight	Capcom	September 1991	[146]
+HAL's Hole in One Golf	HAL Laboratory	September 1991	[14]
+HyperZone	HAL Laboratory	September 1991	[148]
+Populous	Acclaim	September 1991	[149]
+Super Bases Loaded	Jaleco	September 1991	[10]
+Super R-Type	Irem	September 1991	[11]
+The Chessmaster	Mindscape	September 1991	[1]
+U.N. Squadron	Capcom	September 1991	[13]
+Ultraman	Bandai	October 1991	[14]
+Final Fantasy II	SquareSoft	November 3 1991	[1]
+ActRaiser	Enix America	November 1991	[16]
+Bill Laimbeer's Combat Basketball	Hudson Soft	November 1991	[1]
+Darius Twin	Taito	November 1991	[18]
+John Madden Football	Electronic Arts	November 1991	[19]
+Paperboy 	Mindscape	November 1991	[160]
+Radical Psycho Machine Racing	Interplay	November 1991	[161]
+Super Ghouls 'n Ghosts	Capcom	November 1991	[16]
+Super Tennis	Nintendo	November 1991	[163]
+True Golf Classics: Waialae Country Club	T&E Soft	November 1991	[164]
+Super Castlevania IV	Konami	December 3 1991	[16]
+D-Force	Asmik Corporation of America	December 1991	[166]
+Home Alone	THQ	December 1991	[16]
+Lagoon	Kemco	December 1991	[168]
+Super Baseball Simulator 1.000	Culture Brain	December 1991	[169]
+Super Off Road	Tradewest	December 1991	[10]
+The Miracle Piano Teaching System	The Software Toolworks	1991	[11]
+Earth Defense Force	Jaleco	January 199	[1]
+Joe & Mac	Data East	January 199	[13]
+Ys III: Wanderers from Ys	Sammy	January 199	[14]
+Nolan Ryan's Baseball	Romstar	February 199	[1]
+Super Scope 6	Nintendo	February 199	[16]
+Super Smash TV	Acclaim	February 199	[1]
+The Legend of the Mystical Ninja	Konami	February 199	[18]
+Extra Innings	Sony Imagesoft	March 199	[19]
+Lemmings	Sunsoft	March 199	[180]
+PGA Tour Golf	Electronic Arts	March 199	[181]
+Pit-Fighter	THQ	March 199	[18]
+Smart Ball	Sony Imagesoft	March 199	[183]
+The Addams Family	Ocean Software	March 199	[184]
+WWF Super WrestleMania	LJN	March 199	[18]
+Contra III: The Alien Wars	Konami	April 199	[186]
+Raiden Trad	Electro Brain	April 199	[18]
+Rival Turf!	Jaleco	April 199	[188]
+Super Adventure Island	Hudson Soft	April 199	[189]
+The Legend of Zelda: A Link to the Past	Nintendo	April 199	[190]
+Top Gear	Kemco	April 199	[191]
+True Golf Classics: Pebble Beach Golf Links	T&E Soft	April 199	[19]
+World League Soccer	Mindscape	April 199	[193]
+Xardion	Asmik Ace	April 199	[194]
+Arcana	HAL Laboratory	May 199	[19]
+Jack Nicklaus Golf	Tradewest	May 199	[196]
+Mario Paint	Nintendo	May 199	[19]
+Romance of the Three Kingdoms II	Koei	May 199	[198]
+Super Soccer	Nintendo	May 199	[199]
+The Rocketeer	IGS	May 199	[1600]
+Garry Kitchen's Super Battletank: War in the Gulf	Absolute Entertainment	June 199	[1601]
+Krusty's Super Fun House	Acclaim	June 199	[160]
+Space Football: One on One	Triffix	June 199	[1603]
+Super Soccer Champ	Taito	June 199	[1604]
+Thunder Spirits	Seika	June 199	[160]
+Clue	Parker Bros.	July 199	[1606]
+Spanky's Quest	Natsume	July 199	[160]
+Street Fighter II: The World Warrior	Capcom	July 199	[1608]
+Ka-blooey	Kemco	August 199	[1609]
+Magic Sword	Capcom	August 199	[1610]
+Rampart	Electronic Arts	August 199	[1611]
+Soul Blazer	Enix	August 199	[161]
+Strike Gunner S.T.G.	NTVIC	August 199	[1613]
+Super Play Action Football	Nintendo	August 199	[1614]
+Teenage Mutant Ninja Turtles IV: Turtles in Time	Konami	August 199	[161]
+Axelay	Konami	September 199	[1616]
+DinoCity	Irem	September 199	[161]
+F1 ROC: Race of Champions	SETA	September 199	[1618]
+Faceball 000	Bullet Proof Software	September 199	[1619]
+George Foreman's KO Boxing	Acclaim	September 199	[160]
+Monopoly	Parker Brothers	September 199	[161]
+RoboCop 3	Ocean Software	September 199	[16]
+Roger Clemens' MVP Baseball	LJN	September 199	[163]
+Super Bowling	Technos	September199	[164]
+Super Mario Kart	Nintendo	September 199	[16]
+The Simpsons: Bart's Nightmare	Acclaim	September 199	[166]
+Wheel of Fortune	GameTek	September 199	[16]
+Final Fantasy Mystic Quest	SquareSoft	October  199	[168]
+Battle Clash	Nintendo	October 199	[169]
+BlaZeon: The Bio-Cyborg Challenge	Atlus	October 199	[1630]
+David Crane's Amazing Tennis	Absolute Entertainment	October 199	[1631]
+Desert Strike	Electronic Arts	October 199	[163]
+Home Alone : Lost in New York	THQ	October 199	[1633]
+Hook	Sony Imagesoft	October 199	[1634]
+James Bond Jr.	THQ	October 199	[163]
+King of the Monsters	Takara	October 199	[1636]
+NCAA Basketball	Nintendo	October 199	[163]
+Phalanx	Kemco	October 199	[1638]
+Q*bert 3	NTVIC	October 199	[1639]
+Race Drivin'	THQ	October 199	[1640]
+Sküljagger: Revolt of the Westicans	American Softworks	October 199	[1641]
+Space Megaforce	Toho	October 199	[164]
+Super Batter Up	Namco	October 199	[1643]
+Super Buster Bros.	Capcom	October 199	[1644]
+Super Double Dragon	Tradewest	October 199	[164]
+The Irem Skins Game	Irem	October 199	[1646]
+TKO Super Championship Boxing	SOFEL	October 199	[164]
+Wings : Aces High	Namco	October 199	[1648]
+Bazooka Blitzkrieg	Bandai	November 199	[1649]
+Best of the Best: Championship Karate	Electro Brain	November 199	[160]
+Captain Novolin	Raya Systems	November 199	[161]
+Chuck Rock	Sony Imagesoft	November 199	[16]
+Cyber Spin	Takara	November 199	[163]
+Firepower 000	Sunsoft	November 199	[164]
+GunForce	Irem	November 199	[16]
+Imperium	Vic Tokai	November 199	[166]
+John Madden Football '93	Electronic Arts	November 199	[16]
+On the Ball	Taito	November 199	[168]
+Out of This World	Interplay	November 199	[169]
+Prince of Persia	Konami	November 199	[1660]
+Road Riot 4WD	THQ	November 199	[1661]
+Road Runner's Death Valley Rally	Sunsoft	November 199	[166]
+Spider-Man and the X-Men in Arcade's Revenge	LJN	November 199	[1663]
+Super Star Wars	JVC Musical Industries	November 199	[1664]
+Wing Commander	Mindscape	November 199	[166]
+Wordtris	Spectrum HoloByte	November 199	[1666]
+X-Zone	Kemco	November 199	[166]
+Bulls vs Blazers and the NBA Playoffs	Electronic Arts	December 199	[1668]
+Cal Ripken Jr. Baseball	Mindscape	December 199	[1669]
+Chester Cheetah: Too Cool to Fool	Kaneko	December 199	[160]
+Gemfire	Koei	December 199	[161]
+Goal!	Jaleco	December 199	[16]
+Gods	Mindscape	December 199	[163]
+Jeopardy!	GameTek	December 199	[164]
+Jimmy Connors Pro Tennis Tour	Ubisoft	December 199	[16]
+Lethal Weapon	Ocean Software	December 199	[166]
+Musya	SETA	December 199	[16]
+NBA All-Star Challenge	LJN	December 199	[168]
+NHLPA Hockey 93	Electronic Arts	December 199	[169]
+Pro Quarterback	Tradewest	December 199	[1680]
+Push-Over	Ocean Software	December 199	[1681]
+Test Drive II: The Duel	Ballistic	December 199	[168]
+The Magical Quest starring Mickey Mouse	Capcom	December 199	[1683]
+WarpSpeed	Accolade	December 199	[1684]
+California Games II	DTMC	January 1993	[168]
+Power Moves	Kaneko	January 1993	[1686]
+The Hunt for Red October	Hi Tech Expressions	January 1993	[168]
+Uncharted Waters	Koei	January 1993	[1688]
+Aerobiz	Koei	February 1993	[1689]
+Cool World	Ocean Software	February 1993	[1690]
+Dragon's Lair	Data East	February 1993	[1691]
+Harley's Humongous Adventure	Hi Tech Expressions	February 1993	[169]
+Hit the Ice	Taito	February 1993	[1693]
+Shanghai II: Dragon's Eye	Activision	February 1993	[1694]
+SimEarth: The Living Planet	FCI	February 1993	[169]
+Sonic Blast Man	Taito	February 1993	[1696]
+Super Valis IV	Atlus	February 1993	[169]
+The Addams Family: Pugsley's Scavenger Hunt	Ocean Software	February 1993	[1698]
+Tiny Toon Adventures: Buster Busts Loose!	Konami	February 1993	[1699]
+Doomsday Warrior	Renovation	March 1993	[100]
+Inindo: Way of the Ninja	Koei	March 1993	[101]
+King Arthur's World	Jaleco	March 1993	[10]
+Spindizzy Worlds	ASCII	March 1993	[103]
+Star Fox	Nintendo	March 1993	[104]
+Super Conflict: The Mideast	Vic Tokai	March 1993	[10]
+Super Strike Eagle	MicroProse	March 1993	[106]
+Tecmo Super NBA Basketball	Tecmo	March 1993	[10]
+The Combatribes	Technos	March 1993	[108]
+American Gladiators	GameTek	April 1993	[109]
+Batman Returns	Konami	April 1993	[110]
+Battle Grand Prix	Hudson Soft	April 1993	[111]
+Brawl Brothers	Jaleco	April 1993	[11]
+Cybernator	Konami	April 1993	[113]
+Fatal Fury	Takara	April 1993	[114]
+Outlander	Mindscape	April 1993	[11]
+Street Combat	Irem	April 1993	[116]
+Super Ninja Boy	Culture Brain	April 1993	[11]
+The Lost Vikings	Interplay	April 1993	[118]
+The Terminator	Mindscape	April 1993	[119]
+Tom and Jerry	Hi Tech Expressions	April 1993	[10]
+Toys	Absolute Entertainment	April 1993	[11]
+Wayne's World	THQ	April 1993	[1]
+Alien³	LJN	May 1993	[13]
+Bubsy in: Claws Encounters of the Furred Kind	Accolade	May 1993	[14]
+Congo's Caper	Data East	May 1993	[1]
+MechWarrior	Activision	May 1993	[16]
+Shadowrun	Data East	May 1993	[1]
+Super Black Bass	HOT B	May 1993	[18]
+Super Turrican	Seika	May 1993	[19]
+Taz-Mania	Sunsoft	May 1993	[130]
+Vegas Stakes	Nintendo	May 1993	[131]
+Where in Time is Carmen Sandiego?	Hi Tech Expressions	May 1993	[13]
+Rock n' Roll Racing	Blizzard Entertainment	June 4 1993	[133]
+Run Saber	Atlus	June 8 1993	[134]
+B.O.B.	Electronic Arts	June 1993	[13]
+Battletoads in Battlemaniacs	Tradewest	June 1993	[136]
+Cacoma Knight in Bizyland	SETA	June 1993	[13]
+Dungeon Master	JVC Musical Industries	June1993	[138]
+Family Dog	Malibu Interactive	June 1993	[139]
+Kawasaki Caribbean Challenge	GameTek	June 1993	[140]
+Mario is Missing!	The Software Toolworks	June 1993	[141]
+Pocky & Rocky	Natsume	June 1993	[14]
+Super High Impact	Acclaim	June 1993	[143]
+The Adventures of Rocky and Bullwinkle and Friends	THQ	June 1993	[144]
+The Blues Brothers	Titus Software	June 1993	[14]
+The Great Waldo Search	THQ	June 1993	[146]
+Where in the World is Carmen Sandiego?	Hi Tech Expressions	June 1993	[14]
+Wolfchild	Virgin Interactive	June 1993	[148]
+WWF Royal Rumble	LJN	June 1993	[149]
+Yoshi's Cookie	Bullet Proof Software	June 1993	[10]
+E.V.O.: Search for Eden	Enix	July 1993	[11]
+First Samurai	Kemco	July 1993	[1]
+Goof Troop	Capcom	July 1993	[13]
+NFL Football	Konami	July 1993	[14]
+Nigel Mansell's World Championship Racing	GameTek	July 1993	[1]
+Super Baseball 00	Tradewest	July 1993	[16]
+Super James Pond	American Softworks	July 1993	[1]
+Super Slam Dunk	Virgin Interactive	July 1993	[18]
+Final Fight 	Capcom	August 1993	[19]
+Street Fighter II Turbo	Capcom	August 1993	[160]
+Super Mario All-Stars	Nintendo	August 1993	[161]
+Super Slap Shot	Virgin Interactive	August 1993	[16]
+Mortal Kombat: Competition Edition	Acclaim	September 19 1993	[163]
+Alien vs. Predator	Activision	September 1993	[164]
+Boxing Legends of the Ring	Electro Brain	September 1993	[16]
+Bram Stoker's Dracula	Sony Imagesoft	September 1993	[166]
+Captain America and the Avengers	Mindscape	September 1993	[16]
+Cool Spot	Virgin Interactive	September 1993	[168]
+GP-1	Atlus	September 1993	[169]
+Mecarobot Golf	Toho	September 1993	[10]
+Operation Logic Bomb: The Ultimate Search & Destroy	Jaleco	September 1993	[11]
+P.T.O.	Koei	September 1993	[1]
+Plok	Tradewest	September 1993	[13]
+Redline F-1 Racer	Absolute Entertainment	September 1993	[14]
+Rocky Rodent	Irem	September 1993	[1]
+Super Bomberman	Hudson Soft	September 1993	[16]
+Super Off Road: the Baja	Tradewest	September 1993	[1]
+Super Widget	Atlus	September 1993	[18]
+The th Saga	Enix	September 1993	[19]
+Thomas the Tank Engine & Friends: Adventure Series	THQ	September 1993	[180]
+Top Gear 	Kemco	September 1993	[181]
+Tuff E Nuff	Jaleco	September 1993	[18]
+Utopia: The Creation of a Nation	Jaleco	September 1993	[183]
+Wing Commander: The Secret Missions	Mindscape	September 1993	[184]
+World Heroes	Sunsoft	September 1993	[18]
+Yoshi's Safari	Nintendo	September 1993	[186]
+Zombies Ate My Neighbors	Konami	September 1993	[18]
+Aero the Acro-Bat	Sunsoft	October 1993	[188]
+Battletoads & Double Dragon	Tradewest	October 1993	[189]
+Capcom's MVP Football	Capcom	October 1993	[190]
+Cliffhanger	Sony Imagesoft	October 1993	[191]
+Daffy Duck: The Marvin Missions	Sunsoft	October 1993	[19]
+Family Feud	GameTek	October 1993	[193]
+Football Fury	Sammy	October 1993	[194]
+Kendo Rage	SETA	October 1993	[19]
+Last Action Hero	Sony Imagesoft	October 1993	[196]
+Lock On	Vic Tokai	October 1993	[19]
+Madden NFL 94	Electronic Arts	October 1993	[198]
+NBA Showdown	Electronic Arts	October 1993	[199]
+NHL 94	Electronic Arts	October 1993	[1800]
+Pac-Attack	Namco	October 1993	[1801]
+Paladin's Quest	Enix	October 1993	[180]
+Secret of Mana	SquareSoft	October 1993	[1803]
+SimAnt	Maxis	October 1993	[1804]
+Sunset Riders	Konami	October 1993	[180]
+Super Caesars Palace	Virgin Interactive	October 1993	[1806]
+Super Star Wars: The Empire Strikes Back	JVC Musical Industries	October 1993	[180]
+The Incredible Crash Dummies	LJN	October 1993	[1808]
+The Ren & Stimpy Show: Veediots!	THQ	October 1993	[1809]
+The Super Aquatic Games Starring the Aquabats	Seika	October 1993	[1810]
+The Wizard of Oz	SETA	October 1993	[1811]
+Troddlers	Seika	October 1993	[181]
+True Golf Classics: Wicked 18	Bullet Proof Software	October 1993	[1813]
+ActRaiser 	Enix	November 1993	[1814]
+Aladdin	Capcom	November 1993	[181]
+BioMetal	Activision	November 1993	[1816]
+Championship Pool	Mindscape	November 1993	[181]
+ClayFighter	Interplay	November 1993	[1818]
+International Tennis Tour	Taito	November 1993	[1819]
+Jurassic Park	Ocean Software	November 1993	[180]
+Lamborghini American Challenge	Titus Software	November 1993	[181]
+NHL Stanley Cup	Nintendo	November 1993	[18]
+Out to Lunch	Mindscape	November 1993	[183]
+Pink Goes to Hollywood	TecMagik	November 1993	[184]
+Ranma ½: Hard Battle	DTMC	November 1993	[18]
+RoboCop Versus The Terminator	Virgin Interactive	November 1993	[186]
+Steel Talons	Left Field Productions	November 1993	[18]
+Super Battleship	Mindscape	November 1993	[188]
+Super Putty	U.S. Gold	November 1993	[189]
+Tecmo Super Bowl	Tecmo	November 1993	[1830]
+Terminator : Judgment Day	LJN	November 1993	[1831]
+The Lawnmower Man	THQ	November 1993	[183]
+Time Slip	Vic Tokai	November 1993	[1833]
+Tony Meola's Sidekicks Soccer	Electro Brain	November 1993	[1834]
+Total Carnage	Malibu Interactive	November 1993	[183]
+We're Back! A Dinosaur's Story	Hi Tech Expressions	November 1993	[1836]
+ABC Monday Night Football	Data East	December 1993	[183]
+Art of Fighting	Takara	December 1993	[1838]
+Barbie: Super Model	Hi Tech Expressions	December 1993	[1839]
+Battle Blaze	Sammy	December 1993	[1840]
+Battle Cars	Namco	December 1993	[1841]
+Beethoven: The Ultimate Canine Caper	Hi Tech Expressions	December 1993	[184]
+Dennis the Menace	Ocean Software	December 1993	[1843]
+Dig & Spike Volleyball	Hudson Soft	December 1993	[1844]
+F1 Pole Position	Ubisoft	December 1993	[184]
+Genghis Khan II: Clan of the Gray Wolf	Koei	December 1993	[1846]
+Inspector Gadget	Hudson Soft	December 1993	[184]
+Jim Power: The Lost Dimension in 3-D	Electro Brain	December 1993	[1848]
+Lufia & the Fortress of Doom	Taito	December 1993	[1849]
+Mario's Time Machine	Mindscape	December 1993	[180]
+Metal Combat: Falcon's Revenge	Nintendo	December 1993	[181]
+Metal Marines	Namco	December 1993	[18]
+Nobunaga's Ambition	Koei	December 1993	[183]
+Romance of the Three Kingdoms III: Dragon of Destiny	Koei	December 1993	[184]
+Side Pocket	Data East	December 1993	[18]
+Soldiers of Fortune	Spectrum HoloByte	December 1993	[186]
+Super Chase H.Q.	Taito	December 1993	[18]
+Super Nova	Taito	December 1993	[188]
+Teenage Mutant Ninja Turtles: Tournament Fighters	Konami	December 1993	[189]
+The Adventures of Dr. Franken	DTMC	December 1993	[1860]
+World Soccer '94: Road to Glory	Atlus	December 1993	[1861]
+Star Fox: Super Weekend	Nintendo	1993	[186]
+Brett Hull Hockey	Accolade	January 1994	[1863]
+Choplifter III	JVC Musical Industries	January 1994	[1864]
+Lester the Unlikely	DTMC	January 1994	[186]
+Lethal Enforcers	Konami	January 1994	[1866]
+Mega Man X	Capcom	January 1994	[186]
+Riddick Bowe Boxing	Extreme Entertainment Group	January 1994	[1868]
+Skyblazer	Sony Imagesoft	January 1994	[1869]
+Super Battletank 	Absolute Entertainment	January 1994	[180]
+Super Solitaire	Extreme Entertainment Group	January 1994	[181]
+Zool: Ninja of the Nth Dimension	GameTek	January 1994	[18]
+Ardy Lightfoot	Titus Software	February 1994	[183]
+Bill Walsh College Football	Electronic Arts	February 1994	[184]
+Bugs Bunny: Rabbit Rampage	Sunsoft	February 1994	[18]
+Flashback: The Quest for Identity	U.S. Gold	February 1994	[186]
+Mickey's Ultimate Challenge	Hi Tech Expressions	February 1994	[18]
+Ninja Warriors	Taito	February 1994	[188]
+Pro Sport Hockey	Jaleco	February 1994	[189]
+Sports Illustrated: Championship Football & Baseball	Malibu Interactive	February 1994	[1880]
+Super Alfred Chicken	Mindscape	February 1994	[1881]
+Super Bases Loaded 	Jaleco	February 1994	[188]
+Super Troll Islands	ASC Games	February 1994	[1883]
+T: The Arcade Game	Acclaim	February 1994	[1884]
+Turn and Burn: No-Fly Zone	Absolute Entertainment	February 1994	[188]
+Winter Olympic Games: Lillehammer '94	U.S. Gold	February 1994	[1886]
+X-Kaliber 09	Activision	February 1994	[188]
+Chester Cheetah: Wild Wild Quest	Kaneko	March 1994	[1888]
+Claymates	Interplay	March 1994	[1889]
+Equinox	Sony Imagesoft	March 1994	[1890]
+Ken Griffey Jr. Presents Major League Baseball	Nintendo	March 1994	[1891]
+MLBPA Baseball	Electronic Arts	March 1994	[189]
+NBA Jam	Acclaim	March 1994	[1893]
+Star Trek: The Next Generation - Future's Past	Spectrum HoloByte	March 1994	[1894]
+The Flintstones: The Treasure of Sierra Madrock	Taito	March 1994	[189]
+The Peace Keepers	Jaleco	March 1994	[1896]
+Wolfenstein 3D	Imagineer	March 1994	[189]
+Young Merlin	Virgin Interactive	March 1994	[1898]
+Super Metroid	Nintendo	April 18 1994	[1899]
+Advanced Dungeons & Dragons: Eye of the Beholder	Capcom	April 1994	[1900]
+Bébé's Kids	Motown Games	April 1994	[1901]
+Champions World Class Soccer	Flying Edge	April 1994	[190]
+Dream T.V.	Triffix	April 1994	[1903]
+Fatal Fury 	Takara	April 1994	[1904]
+Joe & Mac : Lost in the Tropics	Data East	April 1994	[190]
+King of Dragons	Capcom	April 1994	[1906]
+Knights of the Round	Capcom	April 1994	[190]
+Legend	Seika	April 1994	[1908]
+Liberty or Death	Koei	April 1994	[1909]
+Mega Man Soccer	Capcom	April 1994	[1910]
+Pinball Dreams	GameTek	April 1994	[1911]
+Rocko's Modern Life: Spunky's Dangerous Day	Viacom New Media	April 1994	[191]
+SOS	Vic Tokai	April 1994	[1913]
+Super Goal! 	Jaleco	April 1994	[1914]
+Time Trax	Malibu Interactive	April 1994	[191]
+Ultima: The False Prophet	FCI	April 1994	[1916]
+Wheel of Fortune: Deluxe Edition	GameTek	April 1994	[191]
+Wizardry V: Heart of the Maelstrom	Capcom	April 1994	[1918]
+Andre Agassi Tennis	TecMagik	May 1994	[1919]
+ClayFighter: Tournament Edition	Interplay	May 1994	[190]
+ESPN Baseball Tonight	Sony Imagesoft	May 1994	[191]
+FIFA International Soccer	JVC Musical Industries	May 1994	[19]
+Jeopardy! Sports Edition	GameTek	May 1994	[193]
+Relief Pitcher	Left Field Productions	May 1994	[194]
+Rex Ronan: Experimental Surgeon	Raya Systems	May 1994	[19]
+Space Ace	Absolute Entertainment	May 1994	[196]
+Spectre	Cybersoft	May 1994	[19]
+Suzuka 8 Hours	Namco	May 1994	[198]
+The Pirates of Dark Water	Sunsoft	May 1994	[199]
+ESPN SpeedWorld	Sony Imagesoft	June 14 1994	[1930]
+Barkley Shut Up and Jam!	Accolade	June 1994	[1931]
+Capcom's Soccer Shootout	Capcom	June 1994	[193]
+Championship Soccer '94	Sony Imagesoft	June 1994	[1933]
+Final Fight Guy	Capcom	June 1994	[1934]
+HardBall III	Accolade	June 1994	[193]
+Hyper V-Ball	Mc O'River	June 1994	[1936]
+Jeopardy! Deluxe Edition	GameTek	June 1994	[193]
+King of the Monsters 	Takara	June 1994	[1938]
+Natsume Championship Wrestling	Natsume	June 1994	[1939]
+Operation Europe: Path to Victory	Koei	June 1994	[1940]
+Saturday Night Slam Masters	Capcom	June 1994	[1941]
+Super Street Fighter II: The New Challengers	Capcom	June 1994	[194]
+The Jetsons: Invasion of the Planet Pirates	Taito	June 1994	[1943]
+The Ren & Stimpy Show: Fire Dogs	THQ	June 1994	[1944]
+The Twisted Tales of Spike McFang	Bullet Proof Software	June 1994	[194]
+Tommy Moe's Winter Extreme: Skiing & Snowboarding	Electro Brain	June 1994	[1946]
+Ultimate Fighter	Culture Brain	June 1994	[194]
+World Cup USA '94	U.S. Gold	June 1994	[1948]
+Beauty and the Beast	Hudson Soft	July 1994	[1949]
+F1 ROC II: Race of Champions	SETA	July 1994	[190]
+Stunt Race FX	Nintendo	July 1994	[191]
+Super Godzilla	Toho	July 1994	[19]
+Breath of Fire	SquareSoft	August 10 1994	[193]
+Aerobiz Supersonic	Koei	August 1994	[194]
+An American Tail: Fievel Goes West	Hudson Soft	August 1994	[19]
+Brain Lord	Enix	August 1994	[196]
+Double Dragon V: The Shadow Falls	Tradewest	August 1994	[19]
+Eek! The Cat	Ocean Software	August 1994	[198]
+Elite Soccer	GameTek	August 1994	[199]
+Fighter's History	Data East	August 1994	[1960]
+Fun 'n Games	Tradewest	August 1994	[1961]
+Mr. Nutz	Ocean Software	August 1994	[196]
+Tetris 	Nintendo	August 1994	[1963]
+The Adventures of Kid Kleets	Ocean Software	August 1994	[1964]
+The Death and Return of Superman	Sunsoft	August 1994	[196]
+The Incredible Hulk	U.S. Gold	August 1994	[1966]
+The Jungle Book	Virgin Interactive	August 1994	[196]
+The Untouchables	Ocean Software	August 1994	[1968]
+Troy Aikman NFL Football	Tradewest	August 1994	[1969]
+Kid Klown in Crazy Chase	Kemco	September 10 1994	[190]
+Spider-Man & Venom: Maximum Carnage	LJN	September 18 1994	[191]
+Blackthorne	Interplay	September 1994	[19]
+Illusion of Gaia	Nintendo	September 1994	[193]
+Mario's Early Years: Fun with Numbers	The Software Toolworks	September 1994	[194]
+Michael Andretti's Indy Car Challenge	Bullet Proof Software	September 1994	[19]
+Mighty Morphin Power Rangers	Bandai	September 1994	[196]
+Mortal Kombat II	Acclaim	September 1994	[19]
+Obitus	Bullet Proof Software	September 1994	[198]
+Pac-Man : The New Adventures	Namco	September 1994	[199]
+Super Bomberman 	Hudson Soft	September 1994	[1980]
+Tecmo Super Baseball	Tecmo	September 1994	[1981]
+Virtual Bart	Acclaim	September 1994	[198]
+Vortex	Electro Brain	September 1994	[1983]
+WildSnake	Spectrum HoloByte	September 1994	[1984]
+World Heroes 	Takara	September 1994	[198]
+Final Fantasy III	SquareSoft	October 0 1994	[1986]
+Adventures of Yogi Bear	Cybersoft	October 1994	[198]
+Bonkers	Capcom	October 1994	[1988]
+Bubsy II	Accolade	October 1994	[1989]
+Earthworm Jim	Playmates	October 1994	[1990]
+Exertainment Mountain Bike Rally + Speed Racer	Life Fitness	October 1994	[1991]
+Firestriker	DTMC	October 1994	[199]
+HammerLock Wrestling	Jaleco	October 1994	[1993]
+Indiana Jones' Greatest Adventures	JVC Musical Industries	October 1994	[1994]
+J.R.R. Tolkien's The Lord of the Rings: Volume 1	Interplay	October 1994	[199]
+Lord of Darkness	Koei	October 1994	[1996]
+Mario's Early Years: Fun with Letters	The Software Toolworks	October 1994	[199]
+Math Blaster: Episode 1	Davidson & Associates	October 1994	[1998]
+Mickey Mania	Sony Imagesoft	October 1994	[1999]
+NBA Live 9	Electronic Arts	October 1994	[000]
+NCAA Football	Mindscape	October 1994	[001]
+Operation Thunderbolt	Taito	October 1994	[00]
+R-Type III: The Third Lightning	Jaleco	October 1994	[003]
+Radical Rex	Activision	October 1994	[004]
+Robotrek	Enix	October 1994	[00]
+Shaq-Fu	Electronic Arts	October 1994	[006]
+Shien's Revenge	Vic Tokai	October 1994	[00]
+Snow White in Happily Ever After	American Softworks	October 1994	[008]
+Sparkster	Konami	October 1994	[009]
+Super Adventure Island II	Hudson Soft	October 1994	[010]
+Super Punch-Out!!	Nintendo	October 1994	[011]
+Super Star Wars: Return of the Jedi	JVC Musical Industries	October 1994	[01]
+The Great Circus Mystery Starring Mickey & Minnie	Capcom	October 1994	[013]
+The Lion King	Virgin Interactive	October 1994	[014]
+Uncharted Waters: New Horizons	Koei	October 1994	[01]
+Donkey Kong Country	Nintendo	November  1994	[016]
+Donkey Kong Country: Blockbuster World Video Game Championship II	Nintendo	November  1994	[01]
+3 Ninjas Kick Back	Sony Imagesoft	November 1994	[018]
+ACME Animation Factory	Sunsoft	November 1994	[019]
+Aero Fighters	Mc O'River	November 1994	[00]
+Aero the Acro-Bat 	Sunsoft	November 1994	[01]
+Al Unser Jr.'s Road to the Top	The Software Toolworks	November 1994	[0]
+Animaniacs	Konami	November 1994	[03]
+Ballz 3D	Accolade	November 1994	[04]
+Bassin's Black Bass with Hank Parker	HOT B	November 1994	[0]
+Beavis and Butt-Head	Viacom New Media	November 1994	[06]
+Cannondale Cup	American Softworks	November 1994	[0]
+Demon's Crest	Capcom	November 1994	[08]
+Dragon View	Kemco	November 1994	[09]
+ESPN Sunday Night NFL	Sony Imagesoft	November 1994	[030]
+Ghoul Patrol	JVC Musical Industries	November 1994	[031]
+Home Improvement	Absolute Entertainment	November 1994	[03]
+Jammit	GTE Entertainment	November 1994	[033]
+Jurassic Park Part : The Chaos Continues	Ocean Software	November 1994	[034]
+Lemmings : The Tribes	Psygnosis	November 1994	[03]
+Madden NFL 9	Electronic Arts	November 1994	[036]
+Mario's Early Years: Preschool Fun	Mindscape	November 1994	[03]
+Mary Shelley's Frankenstein	Sony Imagesoft	November 1994	[038]
+Michael Jordan: Chaos in the Windy City	Electronic Arts	November 1994	[039]
+Newman/Haas Indy Car featuring Nigel Mansell	Acclaim	November 1994	[040]
+NHL 9	Electronic Arts	November 1994	[041]
+Nickelodeon GUTS	Viacom New Media	November 1994	[04]
+Nintendo PowerFest '94	Nintendo	November 1994	[043]
+No Escape	Sony Imagesoft	November 1994	[044]
+Pitfall: The Mayan Adventure	Activision	November 1994	[04]
+Pocky & Rocky 	Natsume	November 1994	[046]
+Samurai Shodown	Takara	November 1994	[04]
+Sonic Blast Man II	Taito	November 1994	[048]
+Speed Racer in My Most Dangerous Adventures	Accolade	November 1994	[049]
+Stone Protectors	Kemco	November 1994	[00]
+Street Hockey '9	GTE Entertainment	November 1994	[01]
+Super Bonk	Hudson Soft	November 1994	[0]
+Super Pinball: Behind the Mask	Nintendo	November 1994	[03]
+The Pagemaster	Fox Interactive	November 1994	[04]
+The Ren & Stimpy Show: Time Warp	THQ	November 1994	[0]
+Tin Star	Nintendo	November 1994	[06]
+TNN Bass Tournament of Champions	American Softworks	November 1994	[0]
+Ultima: Runes of Virtue II	FCI	November 1994	[08]
+Ultima: The Black Gate	FCI	November 1994	[09]
+WCW SuperBrawl Wrestling	FCI	November 1994	[060]
+Wolverine: Adamantium Rage	LJN	November 1994	[061]
+WWF Raw	LJN	November 1994	[06]
+XBAND	Catapult Entertainment	November 1994	[063]
+X-Men: Mutant Apocalypse	Capcom	November 1994	[064]
+Zero the Kamikaze Squirrel	Sunsoft	November 1994	[06]
+Biker Mice from Mars	Konami	December 1994	[066]
+Brutal: Paws of Fury	Cybersoft	December 1994	[06]
+ESPN National Hockey Night	Sony Imagesoft	December 1994	[068]
+GP-1: Part II	Atlus	December 1994	[069]
+Hurricanes	U.S. Gold	December 1994	[00]
+Metal Morph	FCI	December 1994	[01]
+Micro Machines	Ocean Software	December 1994	[0]
+NFL Quarterback Club	LJN	December 1994	[03]
+Pieces	Atlus	December 1994	[04]
+Power Instinct	Atlus	December 1994	[0]
+Rise of the Robots	Acclaim	December 1994	[06]
+Star Trek: Starfleet Academy – Starship Bridge Simulator	Interplay	December 1994	[0]
+Street Racer	Ubisoft	December 1994	[08]
+Super Mario All-Stars + Super Mario World	Nintendo	December 1994	[09]
+Tetris & Dr. Mario	Nintendo	December1994	[080]
+The Adventures of Batman & Robin	Konami	December 1994	[081]
+The Tick	Fox Interactive	December 1994	[08]
+Tiny Toon Adventures: Wacky Sports Challenge	Konami	December 1994	[083]
+Uniracers	Nintendo	December 1994	[084]
+Wario's Woods	Nintendo	December 1994	[08]
+Super Game Boy	Nintendo	1994	[086]
+Super 3D Noah's Ark (Unlicensed)	Wisdom Tree	1994	[08]
+A.S.P. Air Strike Patrol	SETA	January 199		[088]
+BreakThru!	Spectrum HoloByte	January 199	
+
+[089]
+Brett Hull Hockey 9	Accolade	January 199		[090]
+Carrier Aces	Cybersoft	January 199		[091]
+ClayFighter : Judgment Clay	Interplay	January 199		[09]
+Full Throttle: All-American Racing	Cybersoft	January 199		[093]
+Mega Man X	Capcom	January 199	
+
+[094]
+Might and Magic III: Isles of Terra	FCI	January 199		[09]
+Pac-In-Time	Namco	January 199	
+
+[096]
+Rap Jam: Volume One	Mandingo	January 199		[09]
+seaQuest DSV	Malibu Interactive	January 199	
+
+[098]
+Tecmo Super Bowl II: Special Edition	Tecmo	January 199	
+
+[099]
+The Ignition Factor	Jaleco	January 199		[100]
+NBA Jam: Tournament Edition	Acclaim	February 3 199	
+
+[101]
+Addams Family Values	Ocean Software	February 199	
+
+[10]
+The Adventures of Mighty Max	Ocean Software	February 199		[103]
+Brandish	Koei	February 199	
+
+[104]
+Kirby's Avalanche	Nintendo	February 199	
+
+[10]
+Kirby's Dream Course	Nintendo	February 199	
+
+[106]
+Looney Tunes B-Ball	Sunsoft	February 199		[10]
+NCAA Final Four Basketball	Mindscape	February 199	
+
+[108]
+Pinball Fantasies	GameTek	February 199		[109]
+Rise of the Phoenix	Koei	February 199	
+
+[110]
+Spider-Man	LJN	February 199	
+
+[111]
+Super Bases Loaded 3: License to Steal	Jaleco	February 199	
+
+[11]
+The Flintstones	Ocean Software	February 199		[113]
+Top Gear 3000	Kemco	February 199		[114]
+True Lies	LJN	February 199	
+Teen
+[11]
+Bust-A-Move	Taito	March 199	
+
+[116]
+Sterling Sharpe: End  End	Jaleco	March 199	
+
+[11]
+The Itchy & Scratchy Game	Acclaim	March 199	
+
+[118]
+Warlock	Acclaim	March 199	
+
+[119]
+Fatal Fury Special	Takuyo	April 199	
+
+[10]
+Kyle Petty's No Fear Racing	Williams	April 199	
+
+[11]
+Metal Warriors	Konami	April 199	
+
+[1]
+Stargate	Acclaim	April 199	
+
+[13]
+The Ren & Stimpy Show: Buckaroo$!	THQ	April 199	
+
+[14]
+Timecop	JVC Musical Industries	April 199	
+
+[1]
+Ogre Battle: The March of the Black Queen	Enix	May 199	
+
+[16]
+EarthBound	Nintendo	June  199	
+
+[1]
+Air Cavalry	Cybersoft	June 199	
+
+[18]
+Bass Masters Classic	Malibu Interactive	June 199	
+
+[19]
+Hagane: The Final Conflict	Hudson Soft	June 199	
+
+[130]
+International Superstar Soccer	Konami	June 199	
+
+[131]
+Judge Dredd	Acclaim	June 199	
+Teen
+[13]
+Jungle Strike	Electronic Arts	June 199	
+
+[133]
+Justice League Task Force	Sunsoft	June 199	
+
+[134]
+Mighty Morphin Power Rangers: The Movie	Bandai	June 199	
+
+[13]
+Packy & Marlon	Raya Systems	June 199	
+
+[136]
+Phantom 040	Viacom New Media	June 199	
+
+[13]
+Super R.B.I. Baseball	Time Warner Interactive	June 199	
+
+[138]
+The Sporting News: Baseball	Hudson Soft	June 199	
+
+[139]
+Dragon: The Bruce Lee Story	Acclaim	July 199	
+Teen
+[140]
+King Arthur & the Knights of Justice	Enix	July 199	
+
+[141]
+Romance of the Three Kingdoms IV: Wall of Fire	Koei	July 199	
+
+[14]
+Tecmo Secret of the Stars	Tecmo	July 199	
+
+[143]
+Wild Guns	Natsume	July 199	
+Teen
+[144]
+Ninja Gaiden Trilogy	Tecmo	August 10 199	
+
+[14]
+Chrono Trigger	SquareSoft	August  199	
+
+[146]
+Primal Rage	Time Warner Interactive	August  199	
+Teen
+[14]
+Batman Forever	Acclaim	August 199	
+
+[148]
+Captain Commando	Capcom	August 199	
+Teen
+[149]
+Demolition Man	Acclaim	August 199	
+
+[10]
+Killer Instinct	Nintendo	August 199	
+Teen
+[11]
+Speedy Gonzales: Los Gatos Bandidos	Acclaim	August 199	
+
+[1]
+SWAT Kats: The Radical Squadron	Hudson Soft	August 199	
+
+[13]
+DOOM	Williams	September 1 199	
+Mature
+[14]
+Mega Man 	Capcom	September 1 199	
+
+[1]
+Bronkie the Bronchiasaurus	Raya Systems	September 199	
+
+[16]
+Castlevania: Dracula X	Konami	September 199	
+
+[1]
+Foreman For Real	Acclaim	September 199	
+
+[18]
+Head-On Soccer	U.S. Gold	September 199	
+
+[19]
+Mighty Morphin Power Rangers: The Fighting Edition	Bandai	September 199	
+
+[160]
+NHL 96	Electronic Arts	September 199	
+
+[161]
+Star Trek: Deep Space Nine – Crossroads of Time	Playmates	September 199	
+
+[16]
+WeaponLord	Namco	September 199	
+Teen
+[163]
+Super Mario World : Yoshi's Island	Nintendo	October 4 199	
+
+[164]
+Mortal Kombat 3	Williams	October 13 199		[16]
+Big Sky Trooper	JVC Musical Industries	October 199	
+
+[166]
+MechWarrior 300	Activision	October 199	
+
+[16]
+NBA Live 96	Electronic Arts	October 199	
+
+[168]
+Nosferatu	SETA	October 199	
+
+[169]
+Porky Pig's Haunted Holiday	Acclaim	October 199	
+
+[10]
+Secret of Evermore	SquareSoft	October 199	
+
+[11]
+Spawn: The Video Game	Acclaim	October 199	
+
+[1]
+Tecmo Super Bowl III: Final Edition	Tecmo	October 199	
+
+[13]
+The Mask	Black Pearl Software	October 199	
+
+[14]
+Madden NFL 96	Electronic Arts	November 10 199	
+
+[1]
+AAAHH!! Real Monsters	Viacom New Media	November 199	
+
+[16]
+Dirt Trax FX	Acclaim	November 199		[1]
+Doom Troopers	Playmates	November 199	
+Teen
+[18]
+Earthworm Jim 	Playmates	November 199	
+
+[19]
+Emmitt Smith Football	JVC Musical Industries	November 199	
+
+[180]
+FIFA Soccer 96	Electronic Arts	November 199	
+
+[181]
+Frank Thomas Big Hurt Baseball	Acclaim	November 199	
+
+[18]
+International Superstar Soccer Deluxe	Konami	November 199	
+
+[183]
+Izzy's Quest for the Olympic Rings	U.S. Gold	November 199	
+
+[184]
+Jimmy Houston's Bass Tournament U.S.A.	Sammy	November 199	
+
+[18]
+NBA Give 'N Go	Konami	November 199	
+
+[186]
+NFL Quarterback Club 96	Acclaim	November 199	
+
+[18]
+Scooby-Doo Mystery	Acclaim	November 199	
+
+[188]
+Sid Meier's Civilization	Koei	November 199	
+
+[189]
+Venom - Spider-Man: Separation Anxiety	Acclaim	November 199	
+
+[190]
+Super Turrican 	Ocean Software	November 199	
+
+[191]
+Urban Strike	Black Pearl Software	November 199		[19]
+Wild C.A.T.s	Playmates	November 199	
+Teen
+[193]
+WWF WrestleMania: The Arcade Game	Acclaim	November 199	
+
+[194]
+Boogerman: A Pick and Flick Adventure	Interplay	December 199		[19]
+Breath of Fire II	Capcom	December 199	
+
+[196]
+Donkey Kong Country : Diddy's Kong Quest	Nintendo	December 199	
+
+[19]
+Kawasaki Superbike Challenge	Time Warner Interactive	December 199	
+
+[198]
+P.T.O. II: Pacific Theater of Operations	Koei	December 199	
+
+[199]
+Revolution X	Acclaim	December 199	
+Teen
+[00]
+Syndicate	Ocean Software	December 199	
+
+[01]
+Toy Story	Capcom	December 199	
+
+[0]
+War 410	Advanced Productions	December 199	
+
+[03]
+Wayne Gretzky and the NHLPA All-Stars	Time Warner Interactive	December 199	
+
+[04]
+Zoop	Viacom New Media	199	
+Final Fight 3	Capcom	January 1996	
+Teen
+[06]
+Mega Man X3	Capcom	January 1996	
+
+[0]
+PGA Tour 96	Black Pearl Software	January 1996	
+
+[08]
+Prehistorik Man	Titus Software	January 1996	
+
+[09]
+Sink or Swim	Titus Software	January 1996	
+
+[10]
+College Slam	Acclaim	February 1996	
+
+[11]
+Cutthroat Island	Acclaim	March 1996	
+
+[1]
+Frantic Flea	GameTek	April 1996	
+
+[13]
+Mark Davis' The Fishing Master	Natsume	April 1996	
+
+[14]
+The Brainies	Titus Software	April 1996	
+
+[1]
+Power Piggs of the Dark Ages	Titus Software	May 1996	
+
+[16]
+Super Mario RPG: Legend of the Seven Stars	Nintendo	May 1996	
+
+[1]
+Ken Griffey Jr.'s Winning Run	Nintendo	June 1996	
+
+[18]
+Olympic Summer Games: Atlanta 1996	Black Pearl Software	June 1996	
+
+[19]
+Bass Masters Classic: Pro Edition	Black Pearl Software	July 1996	
+
+[0]
+Lufia II: Rise of the Sinistrals	Natsume	August 1996	
+
+[1]
+Magic Boy	JVC Musical Industries	August 1996	
+
+
+Mohawk & Headphone Jack	Black Pearl Software	August 1996	
+
+[3]
+Tetris Attack	Nintendo	August 1996	
+
+[4]
+Kirby Super Star	Nintendo	September 0 1996	
+
+
+Ms. Pac-Man	Midway Games	September 1996	
+
+[6]
+PGA European Tour	Black Pearl Software	September 1996	
+
+
+Power Rangers Zeo: Battle Racers	Bandai	September 1996	
+
+[8]
+Ultimate Mortal Kombat 3	Williams	October 11 1996	
+Mature
+[9]
+Madden NFL 9	Electronic Arts	October 1996	
+
+[30]
+NHL 9	Black Pearl Software	October 1996	
+
+[31]
+Oscar	Titus Software	October 1996	
+
+[3]
+Prince of Persia : The Shadow and the Flame	Titus Software	October 1996	
+
+[33]
+War 3010: The Revolution	Advanced Productions	October 1996	
+
+[34]
+Williams Arcade's Greatest Hits	Midway Games	October 1996	
+
+[3]
+Donkey Kong Country 3: Dixie Kong's Double Trouble	Nintendo	November 1996	
+
+[36]
+Marvel Super Heroes in War of the Gems	Capcom	November 1996	
+
+[3]
+Maui Mallard in Cold Shadow	Nintendo	November 1996	
+
+[38]
+NBA Hang Time	Midway Games	November 1996	
+
+[39]
+Pinocchio	Nintendo	November 1996	
+
+[40]
+SimCity 000	Black Pearl Software	November 1996	
+
+[41]
+Street Fighter Alpha 	Capcom	November 1996	
+Teen
+[4]
+Whizz	Titus Software	November 1996	
+
+[43]
+Casper	Absolute Entertainment	December 1996	
+
+[44]
+College Football USA 9	Black Pearl Software	December 1996	
+
+[4]
+Incantation	Titus Software	December 1996	
+
+[46]
+Mr. Do!	Black Pearl Software	December 1996	
+
+[4]
+NBA Live 9	Electronic Arts	December 1996	
+
+[48]
+Realm	Titus Software	December 1996	
+
+FIFA Soccer 9	Electronic Arts	1996	
+Lost Vikings 	Interplay	May 199	
+Harvest Moon	Natsume	June 199	
+Brunswick World: Tournament of Champions	THQ	August 199	
+
+[3]
+Midway Presents Arcade's Greatest Hits: The Atari Collection 1	Midway	August 199	
+
+[4]
+Kirby's Dream Land 3	Nintendo	November  199	
+
+
+Arkanoid: Doh It Again	Nintendo	November 199	
+
+
+Madden NFL 98	Black Pearl Software	November 199	
+
+
+Space Invaders
+Timon & Pumbaa's Jungle Games	
+NHL 98
+NBA Live 98	THQ	March 1998	
+Frogger
